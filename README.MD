@@ -1,12 +1,7 @@
 # Dockerized Django application
 
-![Docker plus Django plus Codefresh](docker-django-codefresh.jpg)
 
 This is an example Python application that uses Django, pip and Docker.
-It is packaged using Codefresh.
-
-More details can be found in [the documentation page](https://codefresh.io/docs/docs/learn-by-example/python/django/).
-
 
 
 ## Instructions
