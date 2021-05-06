@@ -45,10 +45,9 @@ docker run -p 8000:8000 django-app
 ```
 
 
-## To use this project in Codefresh 
+## To use this project in dorax 
 
-There is also a [codefresh.yml](codefresh.yml) for easy usage with the [Codefresh](codefresh.io) CI/CD platform.
-
+Just go to deploy tab and click run. 
 
 Enjoy!
 
